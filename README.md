@@ -1,11 +1,11 @@
-# Lego Sets Analysis Project
+# Lego Sets Analysis Project:
 ![R](https://github.com/Ayushmi-Adh/LegoDataAnalysis/assets/132826306/28df819c-8c8c-4a1f-adec-9a9e4732fe51)
 
 ## Overview:
 This project explores a pivotal development in the history of Lego: the introduction of licensed sets, including popular themes like Star Wars, Super Heroes, and Harry Potter. Lego, facing challenges in the late 90s, found success with its first licensed series, Star Wars, which played a crucial role in the company's survival.
 
 ## Datasets:
-Two datasets are utilized for this analysis:
+Two datasets are utilized for this analysis.
 
 ### Lego Sets Dataset:
 - **set_num:** A unique code for each set.
